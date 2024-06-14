@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271819882490",
+    "firebase_url": "https://petpalace-3ee90-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "petpalace-3ee90",
+    "storage_bucket": "petpalace-3ee90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271819882490:android:e1e3853a3686c7265c2e43",
+        "android_client_info": {
+          "package_name": "com.petpalace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271819882490-kbj8g5g998t24km4o4imc1qa7f3ciuqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petpalace",
+            "certificate_hash": "c134cff886865124732845c0f10635517ba64ce4"
+          }
+        },
+        {
+          "client_id": "271819882490-kvs2hvrcsl2f0e22fr0vlipk6oov7keg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1qWSDDAbY9tdM31XJuJ6NHIAHqZmcwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271819882490-kvs2hvrcsl2f0e22fr0vlipk6oov7keg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
